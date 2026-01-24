@@ -1,1 +1,1 @@
-# git-auto-sync
+# git-autosync
